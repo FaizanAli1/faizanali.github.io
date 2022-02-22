@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/FaizanAli1/faizanali.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Self-motivated and competent software engineer with expertise in software & web development, integration, testing, and quality assurance. Skilled in conducting analysis of software & user requirements, monitoring system’s performance, and performing maintenance & system integrations
+   
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+<p> Technical Pre-Sales </p>                    <p> Software Quality Assurance </p> 
+<p> Integration & System Integrators </p>       <p> Project Management </p>
+ <p>Technical & Analytical Skills </p>          <p> Communication & Presentation </p> 
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **PreSales Engineer (August 2021 – Present)**
+### Mercurial Minds
 
-1. Numbered
-2. List
+<p>Proficiently carrying out quoting, sizing, and designing full solutions and proposing hardware requirements of solution; attending customers’ meetings and understanding their needs, current environment, and concerns </p>
+<p>	Effectively rendering technical reports while explaining suggested solutions for end-users; presenting design and persuading customers with solutions. Following up with end-users during and after project implementation stage </p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### **Project Coordinator/QA (March 2020 – August 2021)**
+### Mercurial Minds
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<p>QA of Pakistan's largest mAgri Service with above 20 million subscribers. </p>
+<p>Managing the team in Dev, ITOps, and NOC through Trello. </p>
+<p>Led and delivered an AI based Sim Registration App to leading mobile operator in Africa and Oceania. </p>
 
-### Jekyll Themes
+### **QA Engineer (April 2019 – November 2019)	**
+### Hybrid IT Services
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FaizanAli1/faizanali.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>	Skillfully performed testing of web and mobile applications developed in latest Laravel, .Net, Java, and Swift. Utilized Microsoft Teams for bug tracking and follow ups; created and executed manual test cases </p>
+<p>	Handled extensive UI/UA usability testing (manual testing), and basic API level testing. Collaborated with internal teams to obtain in-depth understanding of product and documentation requirements </p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## Education
+
+### **COMSATS University Islamabad**
+BS Software Engineering (2013- 2017)
+### **LUMS**
+Fundamentals of Data Analytics
+
+---
+
+### INTERESTS
+Apart from being a Pre Sales Engineer, I write journals, read books and go on a long walks on weekends. 
